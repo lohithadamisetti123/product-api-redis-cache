@@ -334,14 +334,18 @@ Test coverage:
 
 ## Screenshots
 
-1. **Postman/Insomnia**
-   `docs/screenshots/postman-create-product.png`
-2. **Redis MONITOR – Cache Activity**
-   `docs/screenshots/redis-monitor-cache-ops.png`
+1. **Postman/Insomnia – Create Product**
 
-```markdown
+   ![Create Product Screenshot](docs/screenshots/postman-create-product.png)
+
+2. **Redis MONITOR – Cache Activity**
+
+   ![Redis Monitor Screenshot](docs/screenshots/redis-monitor-cache-ops.png)
+
+
+
 **Video Demo:** https://<your-video-link>
-```
+
 
 ---
 
