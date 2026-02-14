@@ -346,7 +346,7 @@ Test coverage:
 ---
 
 ## Video Demo
-[WATCH NOW!!->](https://youtu.be/abHdRDzVcRQ?si=19IRaF3UCcXA-jqp)
+[WATCH NOW ON YOUTUBE!!](https://youtu.be/abHdRDzVcRQ?si=19IRaF3UCcXA-jqp)
 
 
 ---
